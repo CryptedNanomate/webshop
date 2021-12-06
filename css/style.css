@@ -1,0 +1,59 @@
+body
+{
+    color: #333;
+    font-size: 18px;
+    padding: 2rem;
+
+}
+h1 {
+    margin-bottom: 2rem;
+}
+header
+{
+    margin-bottom: 2rem;
+}
+nav ul 
+{
+    padding: 0;
+    margin: 0;
+}
+nav ul li
+{
+    list-style-type: none;
+    display: inline-block;
+    margin-left: 2rem;
+}
+a
+{
+    color: #33A0FF;
+    text-decoration: none;
+}
+.btn
+
+{
+    border-radius: 0;
+    border: 0;
+    font-weight: bold;
+}
+.btn-primary{
+background-color: #33A0FF;
+}
+.form-control
+{
+    border-radius: 0;
+}
+#myInput
+{
+    border-radius: 0;
+   
+}
+.tab-pane
+{
+    border: 1px solid #dee2e6;
+    border-top:0;
+    padding:2rem;
+}
+.main
+{
+    margin-top: 200px;
+}
